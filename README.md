@@ -11,6 +11,8 @@
 - https://github.com/ZaquariA/Phase-4-Project
 
 ## DB Diagram
+
+![diagramERD](https://i.imgur.com/AKc9kuX.png)
 https://dbdiagram.io/d/65c51ea2ac844320aec2690f
 
 ## CRUD
