@@ -1,18 +1,19 @@
-#Contributors
+## Contributors
+
 -Zaquari Andl
 
-#Description
+## Description
 
 - An app that will show farms and their workers, animals, and will allow you to alter who and what is  inside of the farm. 
 
-##Github Repo
+## Github Repo
 
 - https://github.com/ZaquariA/Phase-4-Project
 
-##DB Diagram
+## DB Diagram
 https://dbdiagram.io/d/65c51ea2ac844320aec2690f
 
-#CRUD
+## CRUD
 
 -Create a farm, farmer, or animal
 
